@@ -1,0 +1,4 @@
+package radiko
+
+func main() {
+}
